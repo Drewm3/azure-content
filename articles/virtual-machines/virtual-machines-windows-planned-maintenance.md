@@ -3,7 +3,7 @@
 	description="Understand what Azure planned maintenance is and how it affects your Windows virtual machines running in Azure"
 	services="virtual-machines-windows"
 	documentationCenter=""
-	authors="drewm"
+	authors="drewm3"
 	manager="timlt"
 	editor=""
 	tags="azure-service-management,azure-resource-manager"/>
@@ -14,7 +14,7 @@
 	ms.tgt_pltfrm="vm-windows"
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="04/26/2016"
+	ms.date="10/17/2016"
 	ms.author="drewm"/>
 
 # Planned maintenance for virtual machines in Azure
